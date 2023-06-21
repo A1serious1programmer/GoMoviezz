@@ -1,0 +1,64 @@
+.gom{
+  position: absolute;
+  top: 10%;
+  width: 80%;
+  left: 10%;
+}
+.top_nav{
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  position: absolute;
+  top: -1%;
+  width: 100%;
+  height: 8%;
+}
+.hide{
+  display: none;
+}
+.nav:hover{
+  cursor: pointer;
+}
+.nav{
+  display: inline-block;
+  height: 80%;
+  padding-top: 30px;
+  padding-left:40px; padding-right: 40px;
+  font-size:20px;
+  font-weight: bolder;
+}
+.nav:hover{
+  background-color: grey;
+  border-radius: 20px;
+}
+.s_bar{
+  display: inline-block;
+  position: absolute;
+  right: 10%;
+  width: 30%;
+  height: 20%;
+}
+.button:hover{
+  cursor: pointer;
+}
+.bb{
+  text-decoration: none !important;
+  color:white;
+}
+.movies{
+  border-top: 3px solid white;
+  padding-top: 5%;
+  position: absolute;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 500px 500px 500px 500px 500px;
+  width: 90%;
+  left: 5%;
+  height: 320%;
+  top: 30%;
+  grid-gap: 60px;
+}
+.movies div{
+  border-radius: 30px;
+  border: 5px solid black;
+}
