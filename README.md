@@ -1,2 +1,2 @@
 # GoMoviezz
-link - https://a1serious1programmer.github.io/GoMoviezz/
+link - https://ojas-sharma-01.github.io/GoMoviezz/
